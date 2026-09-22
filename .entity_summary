@@ -1,0 +1,1 @@
+- Ladeprotokoll (ladeprotokoll): lampenname[string/text], lampentyp[lookup/select], standort[string/text], notizen[string/textarea], letztes_aufladen[date/datetimeminute], akkustand[lookup/radio], naechstes_laden[date/date], laden_vollstaendig[bool]

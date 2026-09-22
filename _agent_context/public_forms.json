@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "ladeprotokoll",
+      "app_id": "6ab2c158c583c2477590e86c",
+      "path": "/rest/apps/6ab2c158c583c2477590e86c/records",
+      "allowed_fields": [
+        "lampenname",
+        "lampentyp",
+        "standort",
+        "notizen",
+        "letztes_aufladen",
+        "akkustand",
+        "naechstes_laden",
+        "laden_vollstaendig"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Ladeprotokoll — Formular"
+    }
+  ]
+}
